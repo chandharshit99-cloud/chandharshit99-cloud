@@ -73,9 +73,18 @@ I am a **B.Tech Computer Science & Engineering student at Graphic Era Hill Unive
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,sqlite,mongodb&theme=dark" alt="Backend and Databases" />
 
-### Libraries & Tooling
+### Tools, Libraries & APIs
 
-<img src="https://skillicons.dev/icons?i=opencv,git,github,postman,vscode&theme=dark" alt="Libraries and Tooling" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Tools" />
+
+<br/>
+
+![NumPy](https://img.shields.io/badge/NumPy-4F46E5?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-6D28D9?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Google_Colab-7C3AED?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-4F46E5?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-6D28D9?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-7C3AED?style=for-the-badge)
 
 ### Computer Science Fundamentals
 
@@ -99,7 +108,7 @@ I am a **B.Tech Computer Science & Engineering student at Graphic Era Hill Unive
 
 | Domain | Proficiency | Details |
 |:--|:--:|:--|
-| **Computer Vision** | ![Applied](https://img.shields.io/badge/Applied-6D28D9?style=flat-square) | Facial landmarks, Eye Aspect Ratio, blink and yawn detection, and head-pose estimation in a real-time system built with OpenCV and MediaPipe |
+| **Computer Vision** | ![Applied](https://img.shields.io/badge/Applied-6D28D9?style=flat-square) | Facial landmarks, Eye Aspect Ratio, blink and yawn detection, and head-pose estimation in a real-time system built with OpenCV |
 | **Machine Learning Fundamentals** | ![Foundational](https://img.shields.io/badge/Foundational-4F46E5?style=flat-square) | Core ML concepts, NumPy-based numerical processing, and experimentation in Google Colab |
 | **LLM Fundamentals** | ![Foundational](https://img.shields.io/badge/Foundational-4F46E5?style=flat-square) | LLM fundamentals, Oracle Agentic AI Foundations Associate, and LLM-assisted analysis with outputs reviewed against source data |
 | **Data Analytics** | ![Applied](https://img.shields.io/badge/Applied-6D28D9?style=flat-square) | Python and Jupyter workflows for data cleaning, exploration, visualization, and reporting |
@@ -241,6 +250,16 @@ A 4-week data analytics program focused on building Python workflows and turning
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=chandharshit99-cloud&theme=dark&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=312E81&border=312E81" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandharshit99-cloud&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 
 </div>
 
