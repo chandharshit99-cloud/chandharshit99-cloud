@@ -1,378 +1,314 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6366f1,100:7c3aed&height=220&section=header&text=HARSHIT%20CHAND&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:8B5CF6&height=240&section=header&text=Harshit%20Chand&fontSize=62&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Systems%20%26%20CV%20Builder&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+Full-Stack+Developer;AI%2FML+%7C+Computer+Vision+%7C+Backend;Building+Practical+and+Scalable+Software;B.Tech+CSE+%7C+2027" alt="Typing SVG"/>
+<a href="https://github.com/USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+Full+Stack+Products+%7C+Writing+Systems-Level+C%2B%2B;Computer+Vision+%7C+Network+Security+%7C+Data+Analytics;B.Tech+CSE+%2727+%7C+Graphic+Era+Hill+University" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%202027-6366F1?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-7.4%2F10-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software-Developer-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-India-312E81?style=for-the-badge"/>
+![B.Tech](https://img.shields.io/badge/B.Tech-Computer_Science_(2027)-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white)
+![University](https://img.shields.io/badge/Graphic_Era-Hill_University-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-7.4%2F10-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)
+![Location](https://img.shields.io/badge/Location-India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<br/><br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/harshit-chand-147459326">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
 
-<a href="mailto:chandharshit99@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://github.com/chandharshit99-cloud">
-<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=chandharshit99-cloud&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/chandharshit99-cloud?label=FOLLOWERS&style=for-the-badge&color=7c3aed"/>
-<img src="https://img.shields.io/github/stars/chandharshit99-cloud?label=STARS&style=for-the-badge&color=4f46e5"/>
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=6D28D9&style=flat-square)
+![Followers](https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&color=4F46E5&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/USERNAME?label=Stars&style=flat-square&color=7C3AED&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## ABOUT ME
+## About Me
 
-I am a **B.Tech Computer Science & Engineering student at Graphic Era Hill University**, graduating in 2027, with a strong interest in **software development, full-stack engineering, AI/ML, computer vision, and backend systems**.
+<div align="center">
 
-I enjoy building practical software solutions that combine strong engineering fundamentals with real-world applications. My experience includes developing full-stack platforms, real-time computer vision systems, network traffic analysis tools, and data analytics workflows.
+```text
+Software Developer  |  Full Stack Developer  |  Computer Vision  |  Network Security
+```
 
-My current technical focus is on strengthening my skills in **software engineering, full-stack development, artificial intelligence, machine learning, computer vision, and scalable backend systems**.
+</div>
 
-### Engineering Focus
+I am a **B.Tech Computer Science student (Class of 2027)** at Graphic Era Hill University who builds software across the stack, from low-level **C++ network analysis** to **React and Node.js** products and **real-time computer vision** systems.
 
-- Software Development
-- Full-Stack Development
-- AI / Machine Learning
-- Computer Vision
-- Backend Development
-- REST API Development
-- Database Systems
-- Network Programming
-- Data Analytics
-- Security Auditing
+- **Software Engineering First** — Strong fundamentals in OOP, DSA, DBMS, Operating Systems, and Computer Networks, applied directly in projects.
+- **AI / ML Foundations** — Computer vision with OpenCV and MediaPipe, machine learning fundamentals, LLM fundamentals, and Oracle Agentic AI certification.
+- **Full Stack Development** — JWT-secured REST APIs, role-based access control, relational databases, and responsive React interfaces.
+- **Product Engineering Mindset** — I build complete, usable systems: authentication, dashboards, logging, reporting, and clean data workflows.
 
-### Open To
+**Open To**
 
-`Software Engineering` `Full-Stack Development` `AI/ML` `Computer Vision` `Backend Development` `Graduate Opportunities` `Open Source`
+> Software Developer roles • Full Stack roles • Internships • Open-source collaboration
 
 ---
 
-## EDUCATION
+## Tech Stack
 
-### 🎓 Graphic Era Hill University
+<div align="center">
 
-**Bachelor of Technology — Computer Science & Engineering**
+### Languages
 
-`2023 – 2027`
+<img src="https://skillicons.dev/icons?i=py,cpp,java,js&theme=dark" alt="Languages" />
 
-**CGPA: 7.4 / 10.00**
+### Frontend
 
-### 📚 Nosegay Public School, Khatima
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Frontend" />
 
-**12th / Higher Secondary — CBSE**
+### Backend & Databases
 
-**Percentage: 78%**
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,sqlite,mongodb&theme=dark" alt="Backend" />
 
-### 📘 Secondary Education — CBSE
+### Cloud, DevOps & Tooling
 
-**Percentage: 79.3%**
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,opencv,numpy,jupyter&theme=dark" alt="Tooling" />
 
----
-
-## TECH STACK
-
-### Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript&theme=dark"/>
-</p>
-
-### Frameworks & Libraries
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flask,opencv&theme=dark"/>
-</p>
-
-**Additional:** `REST APIs` `MediaPipe` `NumPy`
-
-### Databases & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,postman,vscode&theme=dark"/>
-</p>
-
-**Additional:** `Google Colab`
-
-### Computer Science Concepts
-
-`OOP` `DSA` `DBMS` `Operating Systems` `Computer Networks`
-
-`Machine Learning Fundamentals` `Computer Vision` `LLM Fundamentals` `Security Auditing`
+</div>
 
 ---
 
-## AI / ML EXPERTISE
+## AI / ML Expertise
 
-| Domain | Level | Expertise |
-|:---|:---:|:---|
-| Computer Vision | Advanced | Facial landmarks, EAR, blink detection, yawn detection and head-pose estimation |
-| Machine Learning | Intermediate | Machine learning fundamentals and applied AI concepts |
-| OpenCV | Advanced | Real-time image and video processing |
-| MediaPipe | Advanced | Facial landmark and vision-based detection |
-| NumPy | Intermediate | Numerical and scientific data processing |
-| LLM Fundamentals | Intermediate | Understanding and applying LLM-based tools |
-| Data Analytics | Intermediate | Data cleaning, exploration, visualization and reporting |
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:--|:--:|:--|
+| **Computer Vision** | ![Applied](https://img.shields.io/badge/Applied-6D28D9?style=flat-square) | Facial landmarks, Eye Aspect Ratio, blink and yawn detection, head-pose estimation with OpenCV and MediaPipe |
+| **Machine Learning** | ![Foundational](https://img.shields.io/badge/Foundational-4F46E5?style=flat-square) | ML fundamentals, NumPy-based numerical processing, Google Colab experimentation |
+| **LLM & Agentic AI** | ![Foundational](https://img.shields.io/badge/Foundational-4F46E5?style=flat-square) | LLM fundamentals, Oracle Agentic AI Foundations Associate, LLM-assisted analysis with output verification |
+| **Data Analytics** | ![Applied](https://img.shields.io/badge/Applied-6D28D9?style=flat-square) | Python and Jupyter workflows for cleaning, exploration, visualization, and reporting |
+| **Network Security** | ![Applied](https://img.shields.io/badge/Applied-6D28D9?style=flat-square) | Packet parsing, TLS SNI extraction, rule-based traffic filtering, security auditing concepts |
+
+</div>
 
 ---
 
-# FEATURED PROJECTS
+## Featured Projects
 
-<details>
-<summary><b>🔬 Deep Packet Inspection (DPI) Engine</b></summary>
+<details open>
+<summary><b>Deep Packet Inspection (DPI) Engine — C++ Network Traffic Analyzer</b></summary>
 
 <br/>
 
-**April 2026 – June 2026**
+A C++ engine that parses PCAP network captures, extracts protocol header data, and identifies HTTPS destinations without decrypting traffic.
 
-A C++ deep packet inspection engine designed to parse network traffic, extract protocol information and perform rule-based packet filtering.
+| | |
+|:--|:--|
+| **Stack** | C++ • TCP/IP • TLS • PCAP • Multithreading |
+| **Scale** | Processes full PCAP captures using a multithreaded pipeline |
+| **Performance** | Efficient low-level packet parsing in native C++ |
+| **Security** | TLS SNI extraction from Client Hello packets • rule-based filtering by IP, application, or domain |
+| **Impact** | Enables traffic visibility and policy-style blocking without breaking encryption |
+| **Repository** | [github.com/USERNAME/dpi-engine](https://github.com/USERNAME/dpi-engine) |
 
-| Category | Details |
-|:---|:---|
-| **Stack** | C++ · TCP/IP · TLS · PCAP · Multithreading |
-| **Scale** | Network traffic analysis engine |
-| **Performance** | Multithreaded packet processing |
-| **Security** | Network traffic inspection and rule-based filtering |
-| **Impact** | Enables analysis and filtering of network traffic without decrypting HTTPS payloads |
-| **Repository** | [View on GitHub](https://github.com/chandharshit99-cloud/packet_analyzer) |
+**Overview:** Parses Ethernet, IP, TCP, and UDP headers, extracts the Server Name Indication from TLS Client Hello packets, and applies configurable filtering rules.
 
-### Engineering Scope
+</details>
 
-- Developed a C++ DPI engine for PCAP network traffic
-- Parsed Ethernet headers
-- Parsed IP headers
-- Parsed TCP headers
-- Parsed UDP headers
-- Extracted TLS Server Name Indication
-- Identified HTTPS destinations without decrypting traffic
-- Implemented rule-based packet filtering
-- Supported filtering based on IP, application and domain
-- Applied multithreading for packet processing
+<details>
+<summary><b>Driver Drowsiness Detection System — Real-Time Computer Vision</b></summary>
+
+<br/>
+
+A real-time driver monitoring system that detects fatigue using facial landmarks and logs events through a Flask web application.
+
+| | |
+|:--|:--|
+| **Stack** | Python • Flask • OpenCV • MediaPipe • NumPy • SQLite |
+| **Scale** | Continuous live video analysis with persistent detection history |
+| **Performance** | Real-time inference on live camera streams |
+| **Security** | Server-side data handling with SQLite-backed storage |
+| **Impact** | Turns raw video signals into actionable alerts, driver history, statistics, and reports |
+| **Repository** | [github.com/USERNAME/driver-drowsiness-detection](https://github.com/USERNAME/driver-drowsiness-detection) |
+
+**Overview:** Combines Eye Aspect Ratio, blink and yawn detection, and head-pose estimation, with a web dashboard for logs, driver history, statistics, and report generation.
+
+</details>
+
+<details>
+<summary><b>Campus Cart — Campus Delivery & Support Platform</b></summary>
+
+<br/>
+
+A full-stack campus delivery platform covering product browsing, cart, ordering, and order tracking, with a dedicated admin dashboard.
+
+| | |
+|:--|:--|
+| **Stack** | React.js • Node.js • Express.js • MySQL • JWT • REST APIs |
+| **Scale** | Multi-role platform for users and administrators |
+| **Performance** | Responsive React interface with search and filtering |
+| **Security** | JWT authentication • role-based access control |
+| **Impact** | End-to-end ordering workflow from browsing to delivery tracking |
+| **Repository** | [github.com/USERNAME/campus-cart](https://github.com/USERNAME/campus-cart) |
+
+**Overview:** Built the REST API layer, MySQL schema, authentication, and an admin dashboard for managing products, users, and orders.
 
 </details>
 
 ---
 
-<details>
-<summary><b>🚗 Driver Drowsiness Detection System</b></summary>
+## Experience
 
-<br/>
+### Data Analytics Intern
+**Edunet Foundation — VOIS for Tech Program** &nbsp;•&nbsp; `Aug 2026 — Sep 2026`
 
-**January 2026 – February 2026**
+Completed a 4-week data analytics program focused on building clean, reproducible Python workflows and turning data into clear, actionable findings.
 
-A real-time driver monitoring system using computer vision and facial landmarks to detect signs of driver fatigue and drowsiness.
+**Scope of Work**
+- Analyzed 3 datasets (HR, agriculture, business/operations) using Python workflows in Jupyter Notebook for cleaning, exploration, and reporting
+- Delivered the capstone "Seasonal Agriculture Performance Analysis" end to end, from data cleaning and seasonal analysis to visualizations of performance trends
+- Converted findings into data-backed recommendations documented in a structured project report
+- Used LLM tools to speed up interpretation and report drafting, then validated outputs against the source data
 
-| Category | Details |
-|:---|:---|
-| **Stack** | Python · Flask · OpenCV · MediaPipe · NumPy · SQLite |
-| **Scale** | Real-time driver monitoring system |
-| **Performance** | Real-time facial landmark and eye-state analysis |
-| **Security** | SQLite-backed application data and structured backend |
-| **Impact** | Detects driver fatigue indicators through real-time computer vision |
-| **Repository** | [View on GitHub](https://github.com/chandharshit99-cloud) |
-
-### Engineering Scope
-
-- Real-time driver monitoring
-- Facial landmark detection
-- Eye Aspect Ratio analysis
-- Blink detection
-- Yawn detection
-- Head-pose estimation
-- Flask web application
-- SQLite-backed detection logs
-- Driver history
-- Statistics dashboard
-- Report generation
-
-</details>
+`Python` `Jupyter Notebook` `Data Cleaning` `Data Visualization` `Reporting`
 
 ---
 
-<details>
-<summary><b>🛒 Campus Cart — Campus Delivery & Support Platform</b></summary>
+## Achievements
 
-<br/>
+<div align="center">
 
-**October 2025 – November 2025**
+| Recognition | Details |
+|:--|:--|
+| **Capstone Delivery** | Completed the "Seasonal Agriculture Performance Analysis" capstone end to end |
+| **Multi-Domain Analytics** | Analyzed 3 datasets across HR, agriculture, and business operations in 4 weeks |
+| **Systems Engineering** | Built a C++ DPI engine with TLS SNI extraction and rule-based filtering |
+| **Computer Vision** | Built a real-time drowsiness detection system with a full Flask reporting app |
+| **Full Stack Delivery** | Shipped a JWT-secured React and Node.js platform with an admin dashboard |
 
-A full-stack campus delivery platform supporting product browsing, cart management, ordering and order tracking.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | React.js · Node.js · Express.js · MySQL · JWT · REST APIs |
-| **Scale** | Full-stack campus delivery platform |
-| **Performance** | Responsive React interface and REST API architecture |
-| **Security** | JWT authentication and role-based access control |
-| **Impact** | Provides an end-to-end digital ordering and management platform |
-| **Repository** | [Campus Cart](https://github.com/chandharshit99-cloud/Campus-Cart) |
-
-### Engineering Scope
-
-- Product browsing
-- Shopping cart
-- Ordering workflow
-- Order tracking
-- JWT authentication
-- Role-based access control
-- REST API development
-- MySQL database management
-- Admin dashboard
-- Product management
-- User management
-- Order management
-- Search and filtering
-
-</details>
+</div>
 
 ---
 
-# EXPERIENCE
+## Certifications
 
-## Data Analytics Intern
-
-### Edunet Foundation — VOIS for Tech Program
-
-**August 2026 – September 2026**
-
-**Technology:** `Python` `Jupyter Notebook`
-
-Completed a 4-week data analytics program involving practical analysis of HR, agriculture and business/operations datasets.
-
-### Scope of Work
-
-- Analyzed **3 datasets** covering HR, agriculture and business/operations
-- Built Python workflows in Jupyter Notebook
-- Performed data cleaning and exploration
-- Created structured analytical reports
-- Delivered the capstone project **Seasonal Agriculture Performance Analysis**
-- Performed seasonal analysis
-- Built data visualizations to communicate performance trends
-- Converted findings into data-backed recommendations
-- Documented analytical findings in a structured project report
-- Used LLM tools to support interpretation while validating outputs against source data
-
-**Skills**
-
-`Python` `Jupyter Notebook` `Data Cleaning` `Data Analysis` `Data Visualization` `Reporting` `LLM Tools`
-
----
-
-# CERTIFICATIONS
+<div align="center">
 
 ### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Database%20Management%20Systems-6366F1?style=for-the-badge"/>
-
-**Database Management Systems**
+![NPTEL DBMS](https://img.shields.io/badge/NPTEL-Database_Management_Systems-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 ### Oracle
+![Oracle Agentic AI](https://img.shields.io/badge/Oracle-Agentic_AI_Certified_Foundations_Associate-7C3AED?style=for-the-badge&logo=oracle&logoColor=white)
 
-<img src="https://img.shields.io/badge/Oracle-Agentic%20AI%20Certified%20Foundations%20Associate-7C3AED?style=for-the-badge&logo=oracle&logoColor=white"/>
+### Edunet Foundation
+![VOIS Data Visualization](https://img.shields.io/badge/VOIS_for_Tech-Data_Visualization-4F46E5?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-**Agentic AI Certified Foundations Associate**
-
-### VOIS for Tech / Edunet Foundation
-
-<img src="https://img.shields.io/badge/VOIS%20for%20Tech-Data%20Visualization-4F46E5?style=for-the-badge"/>
-
-**Data Visualization**
+</div>
 
 ---
 
-# GITHUB ANALYTICS
+## Coding Profiles
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chandharshit99-cloud&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandharshit99-cloud&theme=transparent&hide_border=true&ring=7C3AED&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=8B5CF6&dates=94A3B8" height="180"/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-USERNAME-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1B4B)](https://leetcode.com/USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-USERNAME-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1E1B4B)](https://auth.geeksforgeeks.org/user/USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-USERNAME-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1E1B4B)](https://www.hackerrank.com/USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-USERNAME-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1E1B4B)](https://www.codechef.com/users/USERNAME)
 
 </div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=false&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&border_color=312E81&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=312E81" alt="Top Languages" />
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandharshit99-cloud&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=dark&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=312E81&border=312E81" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-# GITHUB TROPHIES
+## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chandharshit99-cloud&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-# CONTRIBUTION ACTIVITY
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandharshit99-cloud&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=8B5CF6&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&area_color=4F46E5&hide_border=true&title_color=A78BFA" alt="Contribution Graph" width="100%" />
 
 </div>
 
 ---
 
-# 🟢 CONTRIBUTION SNAKE
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chandharshit99-cloud/chandharshit99-cloud/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
 ---
 
-# CURRENT FOCUS
+## Current Focus
 
 ```yaml
-learning:
-  - Data Structures & Algorithms
-  - Advanced Full-Stack Development
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision
-  - Software Engineering
+Learning:
+  - Advanced data structures, algorithms, and system design
+  - LLM applications and agentic AI workflows
+  - Operating systems and network internals
 
-building:
-  - AI-powered applications
-  - Full-stack web platforms
-  - Network analysis systems
-  - Real-world software solutions
+Building:
+  - Systems-level C++ tools for network traffic analysis
+  - Computer vision applications with real-time inference
+  - Full stack products with secure authentication
 
-exploring:
-  - Generative AI
-  - Computer Vision
-  - Backend Architecture
-  - Cloud Technologies
-  - Open Source
+Exploring:
+  - TLS internals and encrypted traffic analysis
+  - Machine learning for practical, real-world detection tasks
+  - Data visualization and analytics storytelling
 
-open_to:
-  - Software Engineering Opportunities
-  - Full-Stack Development Roles
-  - AI/ML Opportunities
-  - Computer Vision Projects
-  - Open Source Collaboration
+Open To:
+  - Software Developer and Full Stack opportunities
+  - Internships and open-source collaboration
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-USERNAME-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-USERNAME-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Great software is engineered with precision, shipped with purpose, and refined with humility."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:8B5CF6&height=160&section=footer" width="100%" alt="footer" />
+
+</div>
