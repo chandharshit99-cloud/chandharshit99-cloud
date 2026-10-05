@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:8B5CF6&height=240&section=header&text=Harshit%20Chand&fontSize=62&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%2FML&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:8B5CF6&height=240&section=header&text=Harshit%20Chand&fontSize=62&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%2FML&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Harshit Chand header" />
 
 <a href="https://github.com/chandharshit99-cloud">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+Full-Stack+Developer;AI%2FML+%7C+Computer+Vision+%7C+Backend;Building+Practical+and+Scalable+Software;B.Tech+CSE+%7C+2027" alt="Typing SVG" />
@@ -41,32 +41,18 @@ Software Developer  |  Full-Stack Developer  |  AI/ML  |  Computer Vision
 
 I am a **B.Tech Computer Science & Engineering student at Graphic Era Hill University** (Class of 2027) who builds practical software across the stack, from **React and Node.js platforms** to **real-time computer vision systems** and **data analytics workflows**.
 
-- **Software Engineering First** — Strong fundamentals in OOP, DSA, DBMS, and Operating Systems, applied directly in every project I ship.
-- **AI / ML Foundations** — Computer vision with OpenCV and MediaPipe, machine learning fundamentals, LLM fundamentals, and Oracle Agentic AI certification.
+- **Software Engineering First** — Strong fundamentals in OOP, DSA, DBMS, and Operating Systems, applied directly in every project I build.
+- **AI / ML Foundations** — Computer vision with OpenCV and MediaPipe, machine learning fundamentals, LLM fundamentals, and the Oracle Agentic AI Foundations Associate certification.
 - **Full Stack Development** — JWT-secured REST APIs, role-based access control, relational databases, and responsive React interfaces.
-- **Product Engineering Mindset** — I build complete, usable systems: authentication, dashboards, logging, reporting, and clean data workflows.
+- **Product Engineering Mindset** — I build complete, usable systems with authentication, dashboards, logging, reporting, and clean data workflows.
 
-**Engineering Focus**
+### Engineering Focus
 
 `Software Development` `Full-Stack Development` `AI / Machine Learning` `Computer Vision` `Backend Development` `REST API Development` `Database Systems` `Data Analytics`
 
-**Open To**
+### Open To
 
-> Software Developer roles • Full Stack roles • AI/ML roles • Internships • Open-source collaboration
-
----
-
-## Education
-
-<div align="center">
-
-| Level | Institution | Details |
-|:--|:--|:--|
-| **B.Tech — Computer Science & Engineering** | Graphic Era Hill University | `2023 — 2027` • CGPA 7.4 / 10 |
-| **Higher Secondary (CBSE)** | Nosegay Public School, Khatima | 78% |
-| **Secondary (CBSE)** | — | 79.3% |
-
-</div>
+> Software Developer roles • Full-Stack roles • AI/ML roles • Internships • Open-source collaboration
 
 ---
 
@@ -86,9 +72,9 @@ I am a **B.Tech Computer Science & Engineering student at Graphic Era Hill Unive
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,sqlite,mongodb&theme=dark" alt="Backend and Databases" />
 
-### Tooling, Libraries & Platforms
+### Libraries & Tooling
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,opencv,numpy&theme=dark" alt="Tooling" />
+<img src="https://skillicons.dev/icons?i=opencv,numpy,git,github,postman,vscode&theme=dark" alt="Libraries and Tooling" />
 
 `REST APIs` `JWT` `MediaPipe` `Jupyter Notebook` `Google Colab`
 
@@ -107,8 +93,8 @@ I am a **B.Tech Computer Science & Engineering student at Graphic Era Hill Unive
 | Domain | Proficiency | Details |
 |:--|:--:|:--|
 | **Computer Vision** | ![Applied](https://img.shields.io/badge/Applied-6D28D9?style=flat-square) | Facial landmarks, Eye Aspect Ratio, blink and yawn detection, head-pose estimation |
-| **OpenCV & MediaPipe** | ![Applied](https://img.shields.io/badge/Applied-6D28D9?style=flat-square) | Real-time image and video processing, landmark-based detection pipelines |
-| **Machine Learning** | ![Foundational](https://img.shields.io/badge/Foundational-4F46E5?style=flat-square) | ML fundamentals, NumPy-based numerical processing, Google Colab experimentation |
+| **OpenCV & MediaPipe** | ![Applied](https://img.shields.io/badge/Applied-6D28D9?style=flat-square) | Real-time image and video processing, landmark-based detection |
+| **Machine Learning** | ![Foundational](https://img.shields.io/badge/Foundational-4F46E5?style=flat-square) | Machine learning fundamentals, NumPy-based numerical processing, Google Colab |
 | **LLM & Agentic AI** | ![Foundational](https://img.shields.io/badge/Foundational-4F46E5?style=flat-square) | LLM fundamentals, Oracle Agentic AI Foundations Associate, LLM-assisted analysis with output validation |
 | **Data Analytics** | ![Applied](https://img.shields.io/badge/Applied-6D28D9?style=flat-square) | Python and Jupyter workflows for cleaning, exploration, visualization, and reporting |
 
@@ -119,13 +105,13 @@ I am a **B.Tech Computer Science & Engineering student at Graphic Era Hill Unive
 ## Featured Projects
 
 <details open>
-<summary><b>Driver Drowsiness Detection System — Real-Time Computer Vision</b></summary>
+<summary><b>🚗 Driver Drowsiness Detection System — Real-Time Computer Vision</b></summary>
 
 <br/>
 
-`Jan 2026 — Feb 2026`
+`January 2026 — February 2026`
 
-A real-time driver monitoring system that detects fatigue indicators using facial landmarks and logs events through a Flask web application.
+A real-time driver monitoring system that detects fatigue indicators using facial landmarks and records events through a Flask web application.
 
 | | |
 |:--|:--|
@@ -133,21 +119,20 @@ A real-time driver monitoring system that detects fatigue indicators using facia
 | **Scale** | Continuous live video analysis with persistent detection history |
 | **Performance** | Real-time facial landmark and eye-state analysis |
 | **Security** | Structured backend with SQLite-backed application data |
-| **Impact** | Turns raw video signals into alerts, driver history, statistics, and reports |
-| **Repository** | [View on GitHub](https://github.com/chandharshit99-cloud) |
+| **Impact** | Turns raw video signals into detection logs, driver history, statistics, and reports |
 
-**Engineering Scope:** Eye Aspect Ratio analysis • blink detection • yawn detection • head-pose estimation • Flask web app • SQLite detection logs • driver history • statistics dashboard • report generation
+**Engineering Scope:** Eye Aspect Ratio (EAR) analysis • blink detection • yawn detection • head-pose estimation • Flask web application • SQLite-backed detection logs • driver history • statistics • report generation
 
 </details>
 
 <details>
-<summary><b>Campus Cart — Campus Delivery & Support Platform</b></summary>
+<summary><b>🛒 Campus Cart — Campus Delivery & Support Platform</b></summary>
 
 <br/>
 
-`Oct 2025 — Nov 2025`
+`October 2025 — November 2025`
 
-A full-stack campus delivery platform covering product browsing, cart management, ordering, and order tracking, with a dedicated admin dashboard.
+A full-stack campus delivery platform supporting product browsing, cart, ordering, and order tracking through a responsive React interface, with an admin dashboard for management.
 
 | | |
 |:--|:--|
@@ -156,31 +141,31 @@ A full-stack campus delivery platform covering product browsing, cart management
 | **Performance** | Responsive React interface with search and filtering |
 | **Security** | JWT authentication • role-based access control |
 | **Impact** | End-to-end digital ordering and management workflow |
-| **Repository** | [Campus Cart](https://github.com/chandharshit99-cloud/Campus-Cart) |
+| **Repository** | [github.com/chandharshit99-cloud/Campus-Cart](https://github.com/chandharshit99-cloud/Campus-Cart) |
 
-**Engineering Scope:** Product browsing • shopping cart • ordering workflow • order tracking • REST API development • MySQL database management • admin dashboard for products, users, and orders
+**Engineering Scope:** Product browsing • cart • ordering • order tracking • REST API development • MySQL database management • admin dashboard for products, users, and orders with search and filtering
 
 </details>
 
 <details>
-<summary><b>Deep Packet Inspection Engine — C++ Systems Programming</b></summary>
+<summary><b>🔬 Deep Packet Inspection (DPI) Engine — C++ Systems Programming</b></summary>
 
 <br/>
 
-`Apr 2026 — Jun 2026`
+`April 2026 — June 2026`
 
-A multithreaded C++ engine that parses PCAP captures, extracts protocol header data, and applies rule-based packet filtering.
+A C++ engine that parses PCAP network traffic, extracts protocol header information, and applies rule-based packet filtering.
 
 | | |
 |:--|:--|
 | **Stack** | C++ • TCP/IP • TLS • PCAP • Multithreading |
-| **Scale** | Processes full PCAP captures through a multithreaded pipeline |
-| **Performance** | Efficient low-level packet parsing in native C++ |
+| **Scale** | Processes PCAP network captures through a multithreaded pipeline |
+| **Performance** | Low-level packet parsing in native C++ |
 | **Security** | Rule-based filtering by IP, application, or domain |
-| **Impact** | Enables traffic analysis and filtering without decrypting HTTPS payloads |
-| **Repository** | [View on GitHub](https://github.com/chandharshit99-cloud/packet_analyzer) |
+| **Impact** | Identifies HTTPS destinations without decrypting traffic |
+| **Repository** | [github.com/chandharshit99-cloud/packet_analyzer](https://github.com/chandharshit99-cloud/packet_analyzer) |
 
-**Engineering Scope:** Ethernet, IP, TCP, and UDP header parsing • TLS Server Name Indication extraction from Client Hello packets • configurable rule-based filtering • multithreaded packet processing
+**Engineering Scope:** Ethernet, IP, TCP, and UDP header parsing • TLS Server Name Indication (SNI) extraction from Client Hello packets • rule-based packet filtering • multithreaded packet processing
 
 </details>
 
@@ -189,15 +174,16 @@ A multithreaded C++ engine that parses PCAP captures, extracts protocol header d
 ## Experience
 
 ### Data Analytics Intern
-**Edunet Foundation — VOIS for Tech Program** &nbsp;•&nbsp; `Aug 2026 — Sep 2026`
+**Edunet Foundation — VOIS for Tech Program** &nbsp;•&nbsp; `August 2026 — September 2026`
 
-Completed a 4-week data analytics program focused on building clean, reproducible Python workflows and turning data into clear, actionable findings.
+Completed a 4-week data analytics program focused on building Python workflows and turning data into clear, data-backed recommendations.
 
 **Scope of Work**
-- Analyzed 3 datasets (HR, agriculture, business/operations) using Python workflows in Jupyter Notebook for cleaning, exploration, and reporting
-- Delivered the capstone "Seasonal Agriculture Performance Analysis" end to end, from data cleaning and seasonal analysis to visualizations of performance trends
+- Analyzed 3 datasets covering HR, agriculture, and business/operations
+- Built Python workflows in Jupyter Notebook for data cleaning, exploration, and reporting
+- Delivered the capstone "Seasonal Agriculture Performance Analysis" by cleaning data, performing seasonal analysis, and creating visualizations
 - Converted findings into data-backed recommendations documented in a structured project report
-- Used LLM tools to speed up interpretation and report drafting, then validated outputs against the source data
+- Used LLM tools to support interpretation and report drafting, then reviewed outputs against source data
 
 `Python` `Jupyter Notebook` `Data Cleaning` `Data Analysis` `Data Visualization` `Reporting` `LLM Tools`
 
@@ -209,10 +195,10 @@ Completed a 4-week data analytics program focused on building clean, reproducibl
 
 | Recognition | Details |
 |:--|:--|
-| **Capstone Delivery** | Completed the "Seasonal Agriculture Performance Analysis" capstone end to end |
-| **Multi-Domain Analytics** | Analyzed 3 datasets across HR, agriculture, and business operations in 4 weeks |
-| **Computer Vision** | Built a real-time drowsiness detection system with a full Flask reporting app |
-| **Full Stack Delivery** | Built a JWT-secured React and Node.js platform with an admin dashboard |
+| **Capstone Delivery** | Delivered the "Seasonal Agriculture Performance Analysis" capstone at Edunet Foundation |
+| **Multi-Domain Analytics** | Analyzed 3 datasets across HR, agriculture, and business/operations |
+| **Computer Vision** | Built a real-time driver drowsiness detection system with a Flask reporting application |
+| **Full-Stack Development** | Built a JWT-secured React and Node.js platform with an admin dashboard |
 | **Systems Programming** | Built a multithreaded C++ packet inspection engine with rule-based filtering |
 
 </div>
@@ -231,19 +217,6 @@ Completed a 4-week data analytics program focused on building clean, reproducibl
 
 ### Edunet Foundation
 ![VOIS Data Visualization](https://img.shields.io/badge/VOIS_for_Tech-Data_Visualization-4F46E5?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1B4B)](https://leetcode.com/YOUR_LEETCODE_ID)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1E1B4B)](https://auth.geeksforgeeks.org/user/YOUR_GFG_ID)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1E1B4B)](https://www.hackerrank.com/YOUR_HACKERRANK_ID)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1E1B4B)](https://www.codechef.com/users/YOUR_CODECHEF_ID)
 
 </div>
 
@@ -268,7 +241,7 @@ Completed a 4-week data analytics program focused on building clean, reproducibl
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chandharshit99-cloud&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=chandharshit99-cloud&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" alt="GitHub Trophies" width="90%" />
 
 </div>
 
@@ -278,7 +251,7 @@ Completed a 4-week data analytics program focused on building clean, reproducibl
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandharshit99-cloud&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&area_color=4F46E5&hide_border=true&title_color=A78BFA" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandharshit99-cloud&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -289,9 +262,9 @@ Completed a 4-week data analytics program focused on building clean, reproducibl
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandharshit99-cloud/chandharshit99-cloud/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandharshit99-cloud/chandharshit99-cloud/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/chandharshit99-cloud/chandharshit99-cloud/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandharshit99-cloud/chandharshit99-cloud/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandharshit99-cloud/chandharshit99-cloud/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/chandharshit99-cloud/chandharshit99-cloud/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
 </picture>
 
 </div>
@@ -305,7 +278,7 @@ Learning:
   - Data Structures & Algorithms
   - Advanced Full-Stack Development
   - Artificial Intelligence & Machine Learning
-  - Software Engineering and System Design
+  - Software Engineering
 
 Building:
   - AI-powered applications
@@ -314,7 +287,7 @@ Building:
   - Real-world software solutions
 
 Exploring:
-  - Generative AI and agentic workflows
+  - Generative AI
   - Backend architecture
   - Cloud technologies
   - Open source
@@ -343,6 +316,6 @@ Open To:
 
 *"Great software is engineered with precision, shipped with purpose, and refined with humility."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:8B5CF6&height=160&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:8B5CF6&height=160&section=footer" width="100%" alt="Footer" />
 
 </div>
