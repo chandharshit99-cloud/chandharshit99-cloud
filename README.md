@@ -74,9 +74,17 @@ I am a **B.Tech Computer Science & Engineering student at Graphic Era Hill Unive
 
 ### Libraries & Tooling
 
-<img src="https://skillicons.dev/icons?i=opencv,numpy,git,github,postman,vscode&theme=dark" alt="Libraries and Tooling" />
+### Libraries & Tooling
 
-`REST APIs` `JWT` `MediaPipe` `Jupyter Notebook` `Google Colab`
+<img src="https://skillicons.dev/icons?i=opencv,git,github,postman,vscode&theme=dark" alt="Libraries and Tooling" />
+
+<br/>
+
+![NumPy](https://img.shields.io/badge/NumPy-4F46E5?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-6D28D9?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-7C3AED?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+`REST APIs` `JWT` `MediaPipe`
 
 ### Computer Science Fundamentals
 
