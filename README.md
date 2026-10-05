@@ -74,8 +74,6 @@ I am a **B.Tech Computer Science & Engineering student at Graphic Era Hill Unive
 
 ### Libraries & Tooling
 
-### Libraries & Tooling
-
 <img src="https://skillicons.dev/icons?i=opencv,git,github,postman,vscode&theme=dark" alt="Libraries and Tooling" />
 
 <br/>
@@ -245,21 +243,11 @@ Completed a 4-week data analytics program focused on building Python workflows a
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chandharshit99-cloud&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" alt="GitHub Trophies" width="90%" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandharshit99-cloud&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://ghchart.rshah.org/7C3AED/chandharshit99-cloud" alt="GitHub Contribution Chart" width="100%" />
 
 </div>
 
