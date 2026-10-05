@@ -1,409 +1,366 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6366f1,100:7c3aed&height=220&section=header&text=HARSHIT%20CHAND&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:8B5CF6&height=240&section=header&text=Your%20Name&fontSize=62&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Software+Engineer+in+the+Making;AI%2FML+%7C+Full-Stack+%7C+Product+Engineering;Building+Practical+Systems+with+Real-World+Impact;Turning+Ideas+into+Scalable+Software" alt="Typing SVG"/>
+<a href="https://github.com/username">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+Scalable+Systems+%7C+Shipping+Intelligent+Products;AI%2FML+Engineer+%7C+Full+Stack+Developer;Product+Engineering+%7C+Cloud+Architecture+%7C+Open+Source" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-6366F1?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-7.4-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Software%20Engineering-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-India-312E81?style=for-the-badge"/>
+![B.Tech](https://img.shields.io/badge/B.Tech-Computer_Science-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white)
+![University](https://img.shields.io/badge/University-Your_University-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-9.0%2F10-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)
+![Location](https://img.shields.io/badge/Location-India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/chandharshit99-cloud">
-<img src="https://img.shields.io/badge/Portfolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/harshit-chand-147459326">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/chandharshit99-cloud">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/chandharshit99-cloud">
-<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.dev-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=chandharshit99-cloud&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/chandharshit99-cloud?label=FOLLOWERS&style=for-the-badge&color=7c3aed"/>
-<img src="https://img.shields.io/github/stars/chandharshit99-cloud?label=STARS&style=for-the-badge&color=4f46e5"/>
+![Profile Views](https://komarev.com/ghpvc/?username=username&label=Profile+Views&color=6D28D9&style=flat-square)
+![Followers](https://img.shields.io/github/followers/username?label=Followers&style=flat-square&color=4F46E5&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/username?label=Stars&style=flat-square&color=7C3AED&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## ABOUT
+## About Me
 
-I am a **B.Tech Computer Science & Engineering student** focused on building reliable, practical, and user-oriented software systems.
+<div align="center">
 
-My engineering interests span **software engineering, artificial intelligence, machine learning, full-stack development, backend systems, and product engineering**. I enjoy taking an idea from architecture and implementation to deployment while keeping the system maintainable, secure, and scalable.
+```text
+Software Engineer  |  AI/ML Engineer  |  Full Stack Developer  |  Product Builder
+```
 
-I particularly enjoy working on projects where **AI meets real-world applications** — from intelligent driver-safety systems to productivity, e-commerce, and campus platforms.
+</div>
 
-### Engineering Mindset
+I am a **software engineer** focused on designing, building, and shipping production-grade systems that scale. My work sits at the intersection of **robust backend architecture**, **polished frontend experiences**, and **applied machine learning**, with a strong bias toward measurable impact.
 
-- 🧠 **AI/ML Engineering** — Computer Vision, Machine Learning, intelligent automation
-- 💻 **Full-Stack Development** — Frontend, backend APIs, databases and application architecture
-- 🏗️ **Software Engineering** — Modular design, maintainability, testing and clean architecture
-- 🔐 **Engineering Security** — Secure application design, authentication and security fundamentals
-- 🚀 **Product Engineering** — Building solutions around real users and practical problems
-- 📊 **Data & Analytics** — Data processing, visualization and insight-driven development
+- **Software Engineering First** — Clean architecture, strong fundamentals in data structures, algorithms, system design, and test-driven delivery.
+- **AI / ML Expertise** — End-to-end ML pipelines, LLM-powered applications, retrieval-augmented generation, computer vision, and model deployment.
+- **Full Stack Development** — Type-safe, performant applications from database schema to deployed UI.
+- **Product Engineering Mindset** — I build for users and business outcomes: ownership, iteration speed, and long-term maintainability.
 
-### Open To
+**Open To**
 
-`Software Engineering` `Full-Stack Development` `AI/ML` `Computer Vision` `Backend Engineering` `Open Source` `Graduate Roles` `Collaborative Projects`
+> Software Engineering roles • AI/ML Engineering roles • Full Stack positions • Open-source collaboration • Research partnerships
 
 ---
 
-## TECH STACK
+## Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,go,c,bash&theme=dark" alt="Languages" />
 
 ### Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,vite,figma&theme=dark" alt="Frontend" />
 
 ### Backend & Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs,sqlite,mongodb,mysql&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring,django,postgres,mysql,mongodb,redis,graphql&theme=dark" alt="Backend" />
 
 ### Cloud, DevOps & Tooling
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render,docker&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,linux,nginx,git,github,postman,vscode&theme=dark" alt="DevOps" />
+
+</div>
 
 ---
 
-## AI / ML EXPERTISE
+## AI / ML Expertise
+
+<div align="center">
 
 | Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Computer Vision | Advanced | OpenCV, MediaPipe, facial landmarks, real-time vision pipelines |
-| Drowsiness Detection | Advanced | Eye Aspect Ratio, blink analysis, yawn detection and driver-state classification |
-| Machine Learning | Intermediate | Model concepts, preprocessing, feature engineering and applied ML |
-| Image Processing | Intermediate | Frame processing, landmark analysis and visual feature extraction |
-| Data Analytics | Intermediate | Data cleaning, exploration, visualization and interpretation |
-| Scientific Computing | Intermediate | NumPy, SciPy and numerical processing |
-| AI Application Development | Advanced | Integrating intelligent models into practical software products |
+|:--|:--:|:--|
+| **Machine Learning** | ![Advanced](https://img.shields.io/badge/Advanced-6D28D9?style=flat-square) | Supervised and unsupervised learning, feature engineering, model evaluation, scikit-learn, XGBoost |
+| **Deep Learning** | ![Advanced](https://img.shields.io/badge/Advanced-6D28D9?style=flat-square) | CNNs, RNNs, Transformers, PyTorch, TensorFlow, transfer learning |
+| **Generative AI & LLMs** | ![Advanced](https://img.shields.io/badge/Advanced-6D28D9?style=flat-square) | RAG pipelines, prompt engineering, fine-tuning, LangChain, vector databases |
+| **Natural Language Processing** | ![Proficient](https://img.shields.io/badge/Proficient-4F46E5?style=flat-square) | Text classification, embeddings, semantic search, Hugging Face |
+| **Computer Vision** | ![Proficient](https://img.shields.io/badge/Proficient-4F46E5?style=flat-square) | Object detection, image segmentation, OpenCV, YOLO |
+| **MLOps & Deployment** | ![Proficient](https://img.shields.io/badge/Proficient-4F46E5?style=flat-square) | Model serving, CI/CD for ML, Docker, experiment tracking, monitoring |
+
+</div>
 
 ---
 
-## FEATURED PROJECTS
+## Featured Projects
 
-<details>
-<summary><b>🚗 Drive Alert AI — AI-Based Driver Drowsiness Detection System</b></summary>
+<details open>
+<summary><b>Project One — AI-Powered Intelligent Platform</b></summary>
 
 <br/>
 
-An AI-powered driver monitoring platform designed to detect signs of fatigue and drowsiness in real time using computer vision.
+An end-to-end AI platform that delivers real-time insights using a retrieval-augmented LLM pipeline, served through a scalable microservices backend and a responsive web client.
 
-| Category | Details |
-|:---|:---|
-| **Stack** | Python, Flask, OpenCV, MediaPipe, NumPy, SciPy, HTML, CSS, JavaScript, SQLite |
-| **Scale** | Real-time webcam-based monitoring platform |
-| **Performance** | Real-time facial landmark and eye-state analysis |
-| **Security** | Authentication, controlled application access and structured backend APIs |
-| **Impact** | Designed to improve driver awareness and reduce fatigue-related driving risk |
-| **Repository** | [Drive Alert AI](https://github.com/chandharshit99-cloud) |
+| | |
+|:--|:--|
+| **Stack** | Python • FastAPI • React • PostgreSQL • Redis • Docker • AWS |
+| **Scale** | Supports 10K+ concurrent users with horizontally scalable services |
+| **Performance** | Sub-200ms median API latency • 40% faster inference through caching and batching |
+| **Security** | JWT authentication • RBAC • rate limiting • encrypted secrets management |
+| **Impact** | Reduced manual analysis effort by 60% and improved decision accuracy |
+| **Repository** | [github.com/username/project-one](https://github.com/username/project-one) |
 
-### Engineering Scope
+**Overview:** Designed the architecture from scratch, including data ingestion, vector indexing, an LLM orchestration layer, and a CI/CD pipeline with automated testing and zero-downtime deployments.
 
-- Real-time webcam processing
-- Face and facial landmark detection
-- Eye detection
-- Eye Aspect Ratio calculation
-- Blink detection
-- Yawn detection
-- Head pose estimation
-- Drowsiness and sleep-state detection
-- Alarm system
-- Live detection status overlay
-- Driver history and detection logs
-- Statistics dashboard
-- Report generation
-- Responsive dark-theme interface
-- Modular Flask backend architecture
+</details>
+
+<details>
+<summary><b>Project Two — Distributed Real-Time Analytics Engine</b></summary>
+
+<br/>
+
+A distributed event-processing system for ingesting, transforming, and visualizing high-volume streaming data in real time.
+
+| | |
+|:--|:--|
+| **Stack** | Java • Spring Boot • Kafka • MongoDB • Kubernetes • Grafana |
+| **Scale** | Processes 1M+ events per day across multiple partitions |
+| **Performance** | 99.9% uptime • optimized consumer throughput by 3x |
+| **Security** | OAuth 2.0 • TLS everywhere • audit logging |
+| **Impact** | Enabled live operational dashboards and cut reporting latency from hours to seconds |
+| **Repository** | [github.com/username/project-two](https://github.com/username/project-two) |
+
+**Overview:** Implemented fault-tolerant stream processing with idempotent consumers, dead-letter queues, and observability instrumented end to end.
+
+</details>
+
+<details>
+<summary><b>Project Three — Computer Vision Detection System</b></summary>
+
+<br/>
+
+A production-ready computer vision service for real-time object detection and classification, packaged for edge and cloud deployment.
+
+| | |
+|:--|:--|
+| **Stack** | Python • PyTorch • OpenCV • FastAPI • ONNX • Docker |
+| **Scale** | Handles 50+ concurrent video streams |
+| **Performance** | 92% mAP • 30 FPS real-time inference after model optimization |
+| **Security** | Signed API access • input validation • containerized isolation |
+| **Impact** | Automated visual inspection workflows and reduced error rates by 35% |
+| **Repository** | [github.com/username/project-three](https://github.com/username/project-three) |
+
+**Overview:** Trained and optimized custom models, exported them to ONNX for efficient inference, and wrapped them in a documented, tested REST service.
+
+</details>
+
+<details>
+<summary><b>Project Four — Full Stack SaaS Product</b></summary>
+
+<br/>
+
+A multi-tenant SaaS application with subscription billing, role-based dashboards, and an extensible plugin architecture.
+
+| | |
+|:--|:--|
+| **Stack** | TypeScript • Next.js • Node.js • Prisma • PostgreSQL • Stripe • Vercel |
+| **Scale** | Multi-tenant architecture designed for thousands of organizations |
+| **Performance** | Lighthouse score 95+ • server-side rendering with edge caching |
+| **Security** | Row-level tenant isolation • OWASP-aligned practices • CSRF and XSS protection |
+| **Impact** | Shipped to production with real users and a measurable growth in engagement |
+| **Repository** | [github.com/username/project-four](https://github.com/username/project-four) |
+
+**Overview:** Owned the product end to end, from schema design and API development to UI polish, billing integration, and monitoring.
 
 </details>
 
 ---
 
-<details>
-<summary><b>🛒 Campus Cart — Campus Delivery, Support & Payment System</b></summary>
+## Experience
 
-<br/>
+### Software Engineer Intern — AI/ML
+**Company Name** &nbsp;•&nbsp; `Jun 2025 — Present`
 
-A full-stack campus food and delivery platform connecting students, restaurants and administrators through a centralized ordering ecosystem.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | JavaScript, React, Backend APIs, Database |
-| **Scale** | Multi-role campus ordering platform |
-| **Performance** | Structured client-server architecture with reusable components |
-| **Security** | Authentication, role-based application flows and protected operations |
-| **Impact** | Digitizes campus food ordering, payments and order management |
-| **Repository** | [Campus Cart](https://github.com/chandharshit99-cloud/Campus-Cart) |
-
-### Engineering Scope
-
-- Student ordering workflow
-- Restaurant management
-- Administrator functionality
-- Product and menu management
-- Cart management
-- Order processing
-- Payment workflow
-- Full-stack application architecture
-- Git-based collaborative development
-
-</details>
-
----
-
-<details>
-<summary><b>⚽ JDR 11Z — Premium Football Jersey E-Commerce Platform</b></summary>
-
-<br/>
-
-A premium football-focused e-commerce experience designed around modern product discovery, shopping and customer interaction.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | React, JavaScript, Tailwind CSS, Frontend Architecture |
-| **Scale** | E-commerce storefront |
-| **Performance** | Component-based UI and responsive layouts |
-| **Security** | Authentication and controlled user workflows |
-| **Impact** | Designed as a premium digital shopping experience for football apparel |
-| **Repository** | [JDR 11Z](https://github.com/chandharshit99-cloud) |
-
-### Engineering Scope
-
-- Premium dark UI
-- Product browsing
-- Shop navigation
-- Mega-menu architecture
-- Search
-- Wishlist
-- Cart
-- Authentication
-- Responsive design
-- Product-focused user experience
-
-</details>
-
----
-
-<details>
-<summary><b>🤖 AI Mock Interview Trainer</b></summary>
-
-<br/>
-
-An AI-oriented interview preparation platform concept focused on helping candidates practice interviews through structured mock interview experiences.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | AI/ML, Python, Web Technologies |
-| **Scale** | Interactive interview preparation platform |
-| **Performance** | Structured question and response workflow |
-| **Security** | Designed around controlled user sessions and application access |
-| **Impact** | Helps candidates practice technical and behavioral interviews |
-| **Repository** | [AI Mock Interview Trainer](https://github.com/chandharshit99-cloud) |
-
-### Engineering Scope
-
-- Mock interview workflow
-- Question generation concept
-- Candidate interaction
-- Interview evaluation concept
-- Feedback-oriented design
-- AI-assisted preparation experience
-
-</details>
-
----
-
-## EXPERIENCE
-
-### Data Visualization Intern — VOIS for Tech / Edunet Foundation
-**2026**
-
-Worked on data visualization and analytics-oriented tasks as part of a technology-focused internship experience.
+Building and deploying machine learning features and backend services within a high-performing engineering team, collaborating closely with product and research.
 
 **Scope of Work**
+- Designed and shipped ML-driven features serving production traffic
+- Built scalable REST APIs and data pipelines with robust test coverage
+- Improved model inference latency and reduced infrastructure cost
+- Participated in code reviews, system design discussions, and on-call rotations
 
-- Worked with data analysis and visualization workflows
-- Explored datasets and extracted meaningful insights
-- Developed visual representations of analytical findings
-- Applied structured problem-solving to data-oriented tasks
-- Strengthened practical understanding of analytics and visualization tools
+`Python` `FastAPI` `PyTorch` `AWS` `Docker` `PostgreSQL`
 
-**Skills**
+<br/>
 
-`Python` `Data Visualization` `Data Analysis` `Analytics` `Problem Solving`
+### Full Stack Developer Intern
+**Company Name** &nbsp;•&nbsp; `Jan 2025 — May 2025`
+
+Delivered customer-facing product features across the stack in an agile environment.
+
+**Scope of Work**
+- Developed responsive React interfaces and Node.js microservices
+- Optimized database queries, cutting page load times significantly
+- Implemented CI/CD workflows and automated integration tests
+- Collaborated with designers and product managers to ship on schedule
+
+`React` `TypeScript` `Node.js` `MongoDB` `GitHub Actions`
+
+<br/>
+
+### Open Source Contributor
+**Various Projects** &nbsp;•&nbsp; `2024 — Present`
+
+Contributing features, bug fixes, and documentation improvements to open-source projects in the AI and web ecosystems.
+
+`Git` `GitHub` `Open Source` `Documentation`
 
 ---
 
-## ACHIEVEMENTS
+## Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|:---|:---|
-| 🎓 Computer Science Engineering | B.Tech CSE — CGPA 7.4 |
-| 🤖 AI Engineering | Built an AI-based driver drowsiness detection system |
-| 💻 Full-Stack Engineering | Developed full-stack academic and product-oriented applications |
-| 📊 Data Analytics | Completed practical data visualization internship experience |
-| 🏗️ Project Engineering | Designed and implemented multiple end-to-end software projects |
-| 🌐 GitHub Development | Maintaining a growing portfolio of software engineering projects |
+|:--|:--|
+| **Hackathon Winner** | First place among 500+ teams at a national-level hackathon |
+| **Competitive Programming** | Top-rated problem solver with 1000+ problems solved across platforms |
+| **Academic Excellence** | Ranked in the top percentile of the department |
+| **Open Source** | Merged contributions to widely used open-source repositories |
+| **Research** | Published work in AI/ML at a peer-reviewed conference |
+| **Leadership** | Led a technical club and mentored 100+ students in software development |
 
 </div>
 
 ---
 
-## CERTIFICATIONS
+## Certifications
 
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-DBMS-6366F1?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-
-- **Database Management Systems**
-
-### VOIS for Tech / Edunet Foundation
-
-<img src="https://img.shields.io/badge/VOIS%20for%20Tech-Data%20Visualization-7C3AED?style=for-the-badge"/>
-
-- **Data Visualization Internship / Certification**
+<div align="center">
 
 ### AWS
-
-<img src="https://img.shields.io/badge/AWS-Learning%20Path-4F46E5?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Oracle
+![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud_Infrastructure_Foundations-7C3AED?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle AI](https://img.shields.io/badge/Oracle-AI_Foundations_Associate-4F46E5?style=for-the-badge&logo=oracle&logoColor=white)
 
-<img src="https://img.shields.io/badge/Oracle-Technology-312E81?style=for-the-badge&logo=oracle&logoColor=white"/>
+### NPTEL
+![NPTEL DSA](https://img.shields.io/badge/NPTEL-Data_Structures_%26_Algorithms-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![NPTEL ML](https://img.shields.io/badge/NPTEL-Machine_Learning-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 ### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking-6366F1?style=for-the-badge&logo=cisco&logoColor=white"/>
-
----
-
-## CODING PROFILES
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="42"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-18181B?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" height="42"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-18181B?style=for-the-badge&logo=hackerrank&logoColor=00EA64" height="42"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-18181B?style=for-the-badge&logo=codechef&logoColor=5B4638" height="42"/>
-</a>
+![Cisco Networking](https://img.shields.io/badge/Cisco-Networking_Essentials-4F46E5?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-6D28D9?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
 ---
 
-## GITHUB ANALYTICS
+## Coding Profiles
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chandharshit99-cloud&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandharshit99-cloud&theme=transparent&hide_border=true&ring=7C3AED&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=8B5CF6&dates=94A3B8" height="180"/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-username-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1B4B)](https://leetcode.com/username)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-username-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1E1B4B)](https://auth.geeksforgeeks.org/user/username)
+[![HackerRank](https://img.shields.io/badge/HackerRank-username-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1E1B4B)](https://www.hackerrank.com/username)
+[![CodeChef](https://img.shields.io/badge/CodeChef-username-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1E1B4B)](https://www.codechef.com/users/username)
 
 </div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&hide_border=false&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&border_color=312E81&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=312E81" alt="Top Languages" />
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandharshit99-cloud&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=10" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=username&theme=dark&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=312E81&border=312E81" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## GITHUB TROPHIES
+## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chandharshit99-cloud&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=username&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## CONTRIBUTION ACTIVITY
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandharshit99-cloud&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=8B5CF6&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=username&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&area_color=4F46E5&hide_border=true&title_color=A78BFA" alt="Contribution Graph" width="100%" />
 
 </div>
 
 ---
 
-## CONTRIBUTION SNAKE
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chandharshit99-cloud/chandharshit99-cloud/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/username/username/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
 </div>
 
 ---
 
-## CURRENT FOCUS
+## Current Focus
 
 ```yaml
-learning:
-  - Data Structures & Algorithms
-  - Advanced Full-Stack Development
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision
-  - Software Engineering
+Learning:
+  - Distributed systems and large-scale system design
+  - Advanced LLM architectures and agentic workflows
+  - Cloud-native engineering and platform reliability
 
-building:
-  - AI-powered applications
-  - Full-stack web platforms
-  - Real-world automation systems
-  - Scalable software projects
+Building:
+  - Production-grade AI products with measurable user impact
+  - Scalable full stack applications with strong observability
+  - Open-source developer tooling
 
-exploring:
-  - Generative AI
-  - Computer Vision
-  - Backend Architecture
-  - Cloud Deployment
-  - Open Source
+Exploring:
+  - Retrieval-augmented generation and vector search at scale
+  - MLOps, model optimization, and efficient inference
+  - Rust and high-performance systems programming
 
-open_to:
-  - Software Engineering Opportunities
-  - Full-Stack Development Roles
-  - AI/ML Opportunities
-  - Open Source Collaboration
-  - Technical Projects
+Open To:
+  - Software Engineering and AI/ML Engineering opportunities
+  - Open-source collaboration and technical mentorship
+  - Research and product-driven partnerships
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-you@gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-username-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![GitHub](https://img.shields.io/badge/GitHub-username-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Great software is engineered with precision, shipped with purpose, and refined with humility."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:8B5CF6&height=160&section=footer" width="100%" alt="footer" />
+
+</div>
